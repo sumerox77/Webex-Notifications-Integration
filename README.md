@@ -1,5 +1,5 @@
 # Webex Github & CircleCI notifier
-by atochyli@cisco.com
+by sumerox77
 
 ## Types of notifications
 <section>
@@ -10,7 +10,7 @@ The second type of a notification is for workflows from circleci, this notificat
 In order to receive such notification you should confirm that your github email address for PR is set to your working email ( on @cisco.com ) domain.<br />
 
 How to do this:
-<br /> `git config --global user.email "<your-email>@cisco.com"`.<br />
+<br /> `git config --global user.email "<your-email>@company.com"`.<br />
 To check your credentials: </br> `git config --list`.<br />
 [Read more..](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git)<br />
 </section>
